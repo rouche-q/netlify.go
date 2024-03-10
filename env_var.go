@@ -1,4 +1,4 @@
-package netlify
+package netlifygo
 
 import (
 	"bytes"
